@@ -156,6 +156,9 @@ footer{
 #copyright{
 	text-align: center;
 }
+.callus{
+	color: var(--blue);
+}
 
 .social-menu ul{
     display: flex;
